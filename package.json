@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://iamsnowleopard.github.io/TodoApp/",
+  "homepage": "https://github.com/IamSnowLeopard/ClientIntake/TodoApp/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
