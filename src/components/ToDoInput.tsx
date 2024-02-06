@@ -27,6 +27,7 @@ export default function TodoInput({ onAdd }: TodoInputProps) {
       <input
         type="text"
         value={input}
+        placeholder="Add Todo..."
         onChange={(e) => setInput(e.target.value)}
         onKeyDown={handleKeyDown}
         className="my-input"
